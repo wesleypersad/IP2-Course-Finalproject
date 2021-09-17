@@ -1,0 +1,10 @@
+This will be similar to E1 Plot with bubbles of population moving against year.
+
+Most of the techniques have been developed in E1.
+
+X and Y scales are different.
+
+X scale is GDP in dollars per year.
+
+Y scale is Child Survival in %, calculated from child mortality (CM) i.e. (1000-CM)/1000 * 100%.
+ 

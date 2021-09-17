@@ -1,0 +1,8 @@
+For each country there are values for every 20% of the population for every year.
+
+Can convert each 20% into a population value per 20% so 5 values per country.
+
+Countries can be classified into continents or regions and grouped together by colour and plotted per region.
+
+Maybe converted into a circle via a button ? and plotted against X and Y axis.
+  
